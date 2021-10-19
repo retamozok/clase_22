@@ -1,0 +1,14 @@
+.titulo-h1 {background-color: rgb(253, 249, 7);
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: rgb(4, 1, 46);
+            text-align: center;
+}
+
+.menu {background-color: rgb(255, 218, 56); 
+}
+
+.select-producto:hover {padding: 1px;
+                        border: 1px #000 solid;
+}
+
+.tema-alterno {background-color: aliceblue;}
