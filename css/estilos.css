@@ -2,13 +2,68 @@
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
             color: rgb(4, 1, 46);
             text-align: center;
+            text-shadow: rgb(255, 255, 255) 3px 3px 0px;
+            font-style: italic;
+            margin: 0px;
 }
 
-.menu {background-color: rgb(255, 218, 56); 
+.titulo-h2 {background-color: rgb(252, 144, 4);
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 18px;
+            color: #000;
+            text-align: center;
+            margin: 0px;
+
 }
 
-.select-producto:hover {padding: 1px;
-                        border: 1px #000 solid;
+.categorias {border: rgb(0, 26, 255) 1px solid;
+            border-radius: 3px;
+            background-color: rgb(49, 98, 170);
+
 }
 
-.tema-alterno {background-color: aliceblue;}
+.cat-til {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 30px;
+        font-style: italic;
+        color: #ffff;
+
+}
+
+
+.lista-botones {}
+
+.boton {background-color: blue;
+        font-size: 25px;
+        color: #ffff;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+.menu {background-color: rgb(214, 213, 202); 
+}
+
+.select-producto {border: #000 1px solid;
+                box-shadow: #000 5px 5px 5px;
+                background-color: rgb(255, 218, 56); 
+
+
+}
+
+
+.descripcion-produ {}
+
+.carrito {font-size: 18px;}
+
+
+.select-producto:hover {
+    transform: scale(1.05)
+}
+
+
+
+.titulo-producto {font-size: 23px;
+            color: #000;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}

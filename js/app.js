@@ -19,8 +19,16 @@ $(document).ready(function(){
      }); 
 
      $("#boton-tema").click(function(){
-     $("#tema-alterno").toggleClass(".tema-alterno") 
+     $("#tema-alterno,#menu").toggleClass() 
     }); 
+
+
+   
+
+    
+
+
+
 
 
 });
